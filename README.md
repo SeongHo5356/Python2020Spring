@@ -1,5 +1,5 @@
 # Python2020Spring
 
-Term-Project-Topic __ Movie Recommenation
-PracticeFile __ one cycle of python
-Self-Check __ solving questions
+Term-Project-Topic __ Movie Recommenation<br>
+PracticeFile __ one cycle of python<br>
+Self-Check __ solving questions<br>
